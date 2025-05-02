@@ -14,7 +14,7 @@ export const SDKLanguages: Record<string, { value: string; pathSection: string }
     pathSection: 'dart',
   },
   CSharp: {
-    value: 'C#',
+    value: 'CSharp',
     pathSection: 'csharp',
   },
   Kotlin: {
